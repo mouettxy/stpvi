@@ -1,0 +1,17 @@
+{
+  "lang": "ru-ru",
+  "name": "Пернатые",
+  "short_name": "Chicks",
+  "description": "Приложение для просмотра пород куриц",
+  "start_url": "/",
+  "background_color": "#fff",
+  "theme_color": "#2e3440",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+      {
+          "src": "/assets/icons/icon512.png",
+          "sizes": "512x512"
+      }
+  ]
+}
